@@ -1,4 +1,4 @@
 import pandas as pd
 
-data = pd.DataFrame({"name":["mike","John"]})
+data = pd.DataFrame({"name":["Mike","John","Jack"]})
 print(data)
